@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711827123 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 08\0087autoavaliação1 defineparimpar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"locale.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711824871 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 08\0086definemaxmin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"locale.h"
+
