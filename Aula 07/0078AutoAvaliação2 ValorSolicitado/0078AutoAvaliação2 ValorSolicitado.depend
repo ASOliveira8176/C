@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1706299217 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\autoavaliação2 valorsolicitado\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1706299219 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\autoavaliação2 valorsolicitado\func.h
+
+1706299226 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\autoavaliação2 valorsolicitado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1706299250 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0078autoavaliação2 valorsolicitado\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1706299219 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0078autoavaliação2 valorsolicitado\func.h
+
+1706299226 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0078autoavaliação2 valorsolicitado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1707507514 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0084recusividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	"locale.h"
+	"fatorial.h"
+
+1707506729 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0084recusividade\fatorial.h
+
+1707507489 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0084recusividade\fatorial.c
+	<stdlib.h>
+	"fatorial.h"
+

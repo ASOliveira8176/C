@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706299937 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0079passagemporvalor\valor.c
+	<stdio.h>
+	<stdlib.h>
+	"valor.h"
+
+1706301318 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0079passagemporvalor\valor.h
+

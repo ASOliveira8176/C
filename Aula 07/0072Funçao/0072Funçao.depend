@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702742544 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0072funçao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"locale.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1706469918 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0081autoavaliação3 zerandoporreferencia\zerar.c
+	<stdio.h>
+	<stdlib.h>
+	"zerar.h"
+
+1706470207 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0081autoavaliação3 zerandoporreferencia\zerar.h
+
+1706470157 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0081autoavaliação3 zerandoporreferencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"zerar.h"
+	"locale.h"
+

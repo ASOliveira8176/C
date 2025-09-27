@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1705597262 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0076cabecalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao.h"
+	"locale.h"
+
+1705435086 d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0076cabecalho\funcao.h
+	<stdlib.h>
+	<stdio.h>
+
+1705435094 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 07\0076cabecalho\funcao.c
+	"funcao.h"
+	<stdio.h>
+	<stdlib.h>
+
