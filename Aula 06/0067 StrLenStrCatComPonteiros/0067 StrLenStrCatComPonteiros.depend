@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664471706 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 06\0067 strlenstrcatcomponteiros\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
