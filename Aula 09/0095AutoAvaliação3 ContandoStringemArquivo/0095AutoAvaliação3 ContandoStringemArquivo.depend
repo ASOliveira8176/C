@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725148307 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\básico\ufmg\aula 09\0095autoavaliação3 contandostringemarquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

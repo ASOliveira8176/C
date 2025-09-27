@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724856598 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\básico\ufmg\aula 09\0092putc\main.c
+	<stdio.h>
+	<stdlib.h>
+

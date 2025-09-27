@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724595746 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 09\0089autoavaliação2 matrizformato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
