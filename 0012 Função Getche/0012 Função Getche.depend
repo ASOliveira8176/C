@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660435076 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 02\0012 função getche\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

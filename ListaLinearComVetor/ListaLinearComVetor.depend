@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1738016537 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\listalinearcomvetor\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1738090796 d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\listalinearcomvetor\lista.h
+
+1738090816 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\listalinearcomvetor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"locale.h"
+	"Lista.h"
+

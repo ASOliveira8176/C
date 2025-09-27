@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1664481058 source:c:\users\aluno.li1-16554516\documents\alexsandro o\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Pilha.h"
+
+1664480879 c:\users\aluno.li1-16554516\documents\alexsandro o\pilha\pilha.h
+	<stdlib.h>
+	<stdio.h>
+
+1664480302 source:c:\users\aluno.li1-16554516\documents\alexsandro o\pilha\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"Pilha.h"
+
+1664479890 c:\users\aluno.li1-16554516\documents\alexsandro o\pilha\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1664481046 source:c:\users\aluno.li1-16554516\documents\alexsandro o\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1689097080 source:c:\users\aluno.li3-16554533\music\alexsandro\aeds\pilha\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+	"Pilha.h"
+
+1689095576 c:\users\aluno.li3-16554533\music\alexsandro\aeds\pilha\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1689095814 c:\users\aluno.li3-16554533\music\alexsandro\aeds\pilha\pilha.h
+	<stdlib.h>
+	<stdio.h>
+
+1689097070 source:c:\users\aluno.li3-16554533\music\alexsandro\aeds\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Pilha.h"
+	"interface.h"
+
+1689097094 source:c:\users\aluno.li3-16554533\music\alexsandro\aeds\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	"interface.h"
+
+1724262918 source:c:\users\aluno.li1-150790\music\aeds\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1724262976 c:\users\aluno.li1-150790\music\aeds\pilha\pilha.h
+	<stdlib.h>
+	<stdio.h>
+
+1724338738 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r5\02\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1724337454 d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r5\02\pilha\pilha.h
+	<stdlib.h>
+	<stdio.h>
+
+1724338598 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r5\02\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Pilha.h"
+
+1740062551 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\atividadeavaliativapilha\estacionamentopilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Pilha.h"
+
+1740062552 d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\atividadeavaliativapilha\estacionamentopilha\pilha.h
+	<stdlib.h>
+	<stdio.h>
+
+1740062801 source:d:\alexsandro o\documents\alexsandro\estudos\universidade\3º período\algorítimos e estrutura de dados i (csi-488)\r6\atividadeavaliativapilha\estacionamentopilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
