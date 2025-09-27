@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660602546 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 05\0056 função strcmp\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+

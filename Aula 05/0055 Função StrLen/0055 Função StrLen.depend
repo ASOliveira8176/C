@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660602256 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 05\0055 função strlen\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
