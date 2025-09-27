@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660505587 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 03\0030 impressão de pares\main.c
+	<stdio.h>
+	<locale.h>
+
