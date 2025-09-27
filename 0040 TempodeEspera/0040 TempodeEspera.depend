@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660565117 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 04\0040 tempodeespera\main.c
+	<stdio.h>
+	<stdlib.h>
+

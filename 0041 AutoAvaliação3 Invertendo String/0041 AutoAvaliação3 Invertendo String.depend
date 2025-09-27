@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685557026 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 04\0041 autoavaliação3 invertendo string\main.c
+	<stdio.h>
+	<locale.h>
+

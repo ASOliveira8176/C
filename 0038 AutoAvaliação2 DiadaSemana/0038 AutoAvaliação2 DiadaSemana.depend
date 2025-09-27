@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660561533 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 04\0038 autoavaliação2 diadasemana\main.c
+	<stdio.h>
+	<locale.h>
+
