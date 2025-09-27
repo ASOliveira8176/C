@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660436789 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 02\0017 autoavaliação3 imprimindo em ascii\main.c
+	<stdio.h>
+	<conio.h>
+	<locale.h>
+

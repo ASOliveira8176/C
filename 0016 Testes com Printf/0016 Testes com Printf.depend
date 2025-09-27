@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660436438 source:d:\alexsandro o\documents\alexsandro\estudos\languages\c\ufmg\aula 02\0016 testes com printf\main.c
+	<stdio.h>
+	<locale.h>
+
